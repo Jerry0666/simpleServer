@@ -1,0 +1,16 @@
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\bin\Debug\net8.0-windows\simpleServer.exe
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\bin\Debug\net8.0-windows\simpleServer.deps.json
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\bin\Debug\net8.0-windows\simpleServer.runtimeconfig.json
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\bin\Debug\net8.0-windows\simpleServer.dll
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\bin\Debug\net8.0-windows\simpleServer.pdb
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.Form1.resources
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.csproj.GenerateResource.cache
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.AssemblyInfoInputs.cache
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.AssemblyInfo.cs
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.csproj.CoreCompileInputs.cache
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.dll
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\refint\simpleServer.dll
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.pdb
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\simpleServer.genruntimeconfig.cache
+C:\Users\張哲睿\Desktop\learn C#\simpleServer\simpleServer\obj\Debug\net8.0-windows\ref\simpleServer.dll
